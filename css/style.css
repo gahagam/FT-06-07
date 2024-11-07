@@ -1,0 +1,57 @@
+.navbar-brand {
+    color: brown;
+    font-weight: 600;
+}
+
+.nav-link {
+    color: brown;
+}
+
+
+.nav-link:hover {
+    color: bisque;
+}
+
+
+.nav-pills .nav-link.active {
+    background-color: bisque;
+    color: white;
+}
+
+#navbar-example3 {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow-y: auto;
+    background-color: white;
+    border-right: 1px solid #ddd;
+}
+
+
+.scrollspy-example-2 {
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.btn-primary {
+    background-color: brown;
+    color: #ffffff;
+    border: brown;
+}
+
+.btn-primary {
+
+    background-color: rgb(255, 128, 0);
+    color: #ffffff;
+    border: rgb(255, 128, 0);
+}
+
+.btn-primary:hover {
+    background-color: indianred;
+    color: #ffffff;
+    border: indianred;
+}
+
+.bi-exclamation-triangle-fill {
+    size: 1px;
+}
